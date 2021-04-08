@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/oneDayFragment"
+        android:icon="@drawable/ic_one_day"
+        android:title="@string/menu_one_day_text"
+        app:itemTextColor="@color/colorPrimaryDark"
+        app:showAsAction="ifRoom|withText"/>
+    <item
+        android:id="@+id/fiveDaysFragment"
+        android:icon="@drawable/ic_five_days"
+        android:title="@string/menu_five_days_text"
+        app:itemTextColor="@color/colorPrimaryDark"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/locationFragment"
+        android:icon="@drawable/ic_location"
+        android:title="@string/menu_location_text"
+        app:itemTextColor="@color/colorPrimaryDark"
+        app:showAsAction="ifRoom|withText" />
+
+</menu>

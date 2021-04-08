@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="menu_location_text">My Location</string>
+    <string name="menu_one_day_text">Today</string>
+    <string name="menu_five_days_text">Next Five Days</string>
+    <string name="text_pressure">Pressure</string>
+    <string name="text_wind">Wind</string>
+    <string name="text_sunrise">Sunrise</string>
+    <string name="text_humidity">Humidity</string>
+    <string name="text_visibility">Visibility</string>
+    <string name="text_sunset">Sunset</string>
+    <string name="weather">WEATHER</string>
+    <string name="degrees">°</string>
+</resources>
