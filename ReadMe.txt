@@ -1,6 +1,6 @@
 Project Details
 
-Developed using the APIs offered on OpenWeatherMap.
+Developed using the APIs and Documentation guidelines given on OpenWeatherMap's website.
 
 Architecture : MVVM
 Language : Kotlin
