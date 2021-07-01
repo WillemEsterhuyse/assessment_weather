@@ -1,25 +1,24 @@
 Project Details
 
-Developed using the APIs offered on OpenWeatherMap, THe first encounter will be access to location.
-When the permit processes are positive, you get to the home page first.
-Information from the location and weather details are shown on the first page.
-Tap the daily weather from the Bottom Bar menu options, the 15-day and 3-hour weather data of our location is available.
-When you tap the other option, the weather information of the nearest cities/towns in our location is available.
-There is a background feature that changes depending on the day and night situation in your location.
+Developed using the APIs offered on OpenWeatherMap.
 
-Tools and architecture Used:
-- MVVM
+Architecture : MVVM
+Language : Kotlin
+Image formats : png,svg vector images
 
-- LiveData
-- ViewModel
-- DataBinding
-- Navigation
-- RxJava
-- Retrofit
-- OkHttp
-- SimpleLocation
-- Glide
+Tools:
+Glide
+LiveData
+DataBinding
+RxJava
+Retrofit
+SimpleLocation
 
-UI Component templates and resources:
+UI Component and icons templates and resources:
 
 - https://www.vecteezy.com/free-vector/
+- https://www.flaticon.com/premium-icon/weather-app_2222948
+
+Ic_Launcher generator:
+
+- https://romannurik.github.io/AndroidAssetStudio/index.html
