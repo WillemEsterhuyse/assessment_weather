@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Weather</string>
+    <string name="app_name">Weather Forecast</string>
     <string name="menu_location_text">My Location</string>
     <string name="menu_one_day_text">Today</string>
     <string name="menu_five_days_text">Next Five Days</string>

@@ -55,7 +55,7 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@drawable/ic_pressure" />
+                    android:src="@drawable/ic_wi_barometer" />
 
                 <TextView
                     android:id="@+id/tvPressure"
@@ -98,7 +98,7 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@drawable/ic_wind" />
+                    android:src="@drawable/ic_wi_wind" />
 
                 <TextView
                     android:id="@+id/tvWind"
@@ -140,7 +140,7 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@drawable/ic_sunrise" />
+                    android:src="@drawable/ic_wi_sunrise" />
 
                 <TextView
                     android:id="@+id/tvSunrise"
@@ -182,7 +182,7 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@drawable/ic_humidity" />
+                    android:src="@drawable/ic_wi_humidity" />
 
                 <TextView
                     android:id="@+id/tvHumidity"
@@ -270,7 +270,7 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@drawable/ic_sunset" />
+                    android:src="@drawable/ic_wi_sunset" />
 
                 <TextView
                     android:id="@+id/tvSunset"
